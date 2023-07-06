@@ -16,7 +16,7 @@
 title: Data Science Discovery Course
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
+author: Nikaash Maheshwari & Caleb Stevens
 baseurl: '/DSDC' # the subpath of your site, e.g. /blog
 url: 'https://DSDC.school' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -27,11 +27,6 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data
