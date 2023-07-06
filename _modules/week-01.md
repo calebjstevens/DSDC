@@ -9,6 +9,3 @@ July 24
 July 26
 : [Handling Data With Numpy + Pandas](#)
   : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Python + Pandas](#)
