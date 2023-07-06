@@ -1,16 +1,17 @@
 ---
-title: Introduction to Java
+title: Week 1 - Introduction to Data Science
 ---
 
-Sep 28
-: [Java & Git](#)
+July 24
+: [Intro to Data Science + Python](#)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
+July 26
+: [Handling Data With Numpy + Pandas](#)
   : [1.2](#), [2.1](#)
+
+Oct 1
+: **Lab**{: .label .label-purple } [Intro to Python +_Pandas](#)
+
+
 
