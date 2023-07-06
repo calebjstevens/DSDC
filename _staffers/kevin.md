@@ -1,9 +1,8 @@
 ---
-name: Kevin Lin
+name: Caleb Stevens
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: caleb.stevens@duke.edu
+photo: caleb.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+test!
