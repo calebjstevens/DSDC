@@ -1,9 +1,9 @@
 ---
-name: Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Nikaash Maheshwari
+role: Instructor
+email: nikaash.maheshwari@berkeley.edu
+website: https://www.linkedin.com/in/nikaash-maheshwari/
+photo: nikaash.jpg
 ---
 
 I like teaching Computer Science!
