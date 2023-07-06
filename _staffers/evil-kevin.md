@@ -6,4 +6,4 @@ website: https://www.linkedin.com/in/nikaash-maheshwari/
 photo: nikaash.jpg
 ---
 
-I like teaching Computer Science!
+I like teaching Computer Science! hehe
