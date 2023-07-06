@@ -10,17 +10,38 @@ Staff information is stored in the `_staffers` directory and rendered according 
 
 ## Instructors
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% comment %} {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
+{% endfor %} 
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %} {% endcomment %}
+
+<style>
+  .staffer-container {
+    display: inline-block;
+    /* Add any additional styling as needed */
+  }
+</style>
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% for staffer in instructors %}
+  <div class="staffer-container">
+    {{ staffer }}
+  </div>
 {% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+  <hr> <!-- Optional horizontal line to separate instructors and teaching assistants -->
 
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
+  {% for teaching_assistant in teaching_assistants %}
+    <div class="staffer-container">
+      {{ teaching_assistant }}
+    </div>
+  {% endfor %}
 {% endif %}
+
