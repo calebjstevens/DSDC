@@ -11,5 +11,5 @@ August 9
   : [2.4](#), [2.5](#)
 
 Oct 8
-: **Lab**{: .label .label-purple } [Machine Learning Fun!](#)
+: **Lab**{: .label .label-red } [Machine Learning Fun!](#)
 
