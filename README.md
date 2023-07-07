@@ -18,7 +18,7 @@ seo:
     <img src="/assets/images/caleb.jpg" width="300" />
     <p>
       <strong>Caleb Stevens</strong><br>
-      Email: caleb@example.com
+      Email: caleb.stevens@duke.edu
     </p>
   </div>
   
@@ -26,7 +26,7 @@ seo:
     <img src="/assets/images/nikaash.jpg" width="300" />
     <p>
       <strong>Nikaash Maheshwari</strong><br>
-      Email: nikaash@example.com
+      Email: nikaash.maheshwari@berkeley.edu
     </p>
   </div>
 </div> 
