@@ -15,7 +15,7 @@ seo:
 ## Meet the Instructors
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 50px;">
-    <img src="caleb.jpg" />
+    <img src="/assets/images/caleb.jpg/" />
     <p>
       <strong>Caleb Stevens</strong><br>
       Email: caleb.stevens@duke.edu
@@ -23,7 +23,7 @@ seo:
   </div>
   
   <div style="text-align: center;">
-    <img src="nikaash.jpg" />
+    <img src="/assets/images/nikaash.jpg/" />
     <p>
       <strong>Nikaash Maheshwari</strong><br>
       Email: nikaash.maheshwari@berkeley.edu
