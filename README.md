@@ -11,9 +11,10 @@ seo:
 ![ScreenShot](/assets/images/logo.jpg)
 
 ## Meet the Instructors
-Caleb Stevens            |  Nikaash Maheshwari
-:-------------------------:|:-------------------------:
-![](/assets/images/caleb.jpg)  |  ![](/assets/images/nikaash.jpg)
+<p align = "middle" >
+  <img src="//assets/images/caleb" width="300" />
+  <img src="//assets/images/nikaash" width="300" /> 
+</p>
 
 ## Data Science Discovery Course
 
