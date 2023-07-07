@@ -4,4 +4,4 @@ title: ""
 nav_order: 1
 ---
 
-<img src="/assets/images/logo.jpg" alt="Logo">
+<img src="assets/images/logo.jpg" alt="Logo">
