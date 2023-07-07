@@ -11,7 +11,7 @@ July 26
   : [1.2](#), [2.1](#)
 
 Oct 1
-: **Lab**{: .label .label-purple } [Intro to Python +_Pandas](#)
+: **Lab**{: .label .label-red } [Intro to Python +_Pandas](#)
 
 
 
