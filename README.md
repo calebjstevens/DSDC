@@ -13,25 +13,23 @@ seo:
 # Data Science Discovery Course
 
 ## Meet the Instructors
-<p align="middle">
-  <div>
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin-right: 50px;">
     <img src="/assets/images/caleb.jpg" width="300" />
-    <p align="center">
-      **Caleb Stevens**
-      <br>
-      Email: caleb.stevens@duke.edu
+    <p>
+      <strong>Caleb Stevens</strong><br>
+      Email: caleb@example.com
     </p>
   </div>
   
-  <div>
+  <div style="text-align: center;">
     <img src="/assets/images/nikaash.jpg" width="300" />
-    <p align="center">
-      **Nikaash Maheshwari**
-      <br>
-      Email: nikaash.maheshwari@berkeley.edu
+    <p>
+      <strong>Nikaash Maheshwari</strong><br>
+      Email: nikaash@example.com
     </p>
   </div>
-</p>
+</div>
 
 
 ## Getting Started
