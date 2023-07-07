@@ -5,46 +5,32 @@ description: >-
     Course policies and information.
 ---
 
-# About
-{:.no_toc}
 
-## Table of contents
-{: .no_toc .text-delta }
+## About This Class
 
-1. TOC
-{:toc}
-
----
-
-## Instructors
-
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-## About
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
-
-## Lecture
-
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+After four years of college and looking back to where we started, we realized that data science is a discipline that is ubiquitous. Better yet, we firmly believe that powerful basic principles are not inaccessible to high school students. We wanted to make this course to teach real, tangible practices that are not only used in the classroom of top universities, but are found in most if not all successful businesses today. We are truly excited to share with you a curriculum that we have developed combining our education and industry experience such that **anyone, regardless of programming or technical background can get something out of and enjoy the beauty of data science.** This course will start with programming fundamentals in python, cover best practices in handling and visualizing large datasets, explore the power of supervised machine learning, and conclude with a guided project where the student takes on a real world dataset and draws meaningful conclusions. We’re excited to share what we’ve learned and arm all of you with a brand new arsenal of skills we wish we knew in high school!
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+[Learn Python the Hard Way](https://www.booksfree.org/learn-python-3-the-hard-way-pdf/). This is a great python resource for those who learn by doing, doing, doing.
+
+[Automate the Boring Stuff](https://openlibrary.org/works/OL17192141W/Automate_the_Boring_Stuff_with_Python). This is a great practical book to practice python while automating some common tasks.
+
+
+### Documentation!!
+
+[Numpy](https://numpy.org/doc/)
+
+[Pandas](https://pandas.pydata.org/docs/)
+
+[MatPlotLib](https://matplotlib.org/stable/index.html)
+
+[Seaborn](https://seaborn.pydata.org)
+
+[SciKitLearn](https://scikit-learn.org/stable/)
+
+
 
 ## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+This class has short weekly labs (30-60 minutes) designed to test key concepts and stimulate learning. These assignments will be autograded, so code should be clean and effective. We recognize that this is the first foray that many of you will have into programming (much less data science), so rest assured we will provide plenty of help in session as well as virtual office hours for specific questions. The point of these labs is to learn not to be stressed! So please ask for help if you need it!!
