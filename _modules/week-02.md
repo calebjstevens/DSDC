@@ -11,5 +11,5 @@ August 2
   : [2.4](#), [2.5](#)
 
 Oct 8
-: **Lab**{: .label .label-purple } [Cleaning + Displaying Data](#)
+: **Lab**{: .label .label-red } [Cleaning + Displaying Data](#)
 
