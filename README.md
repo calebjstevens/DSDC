@@ -7,7 +7,7 @@ seo:
   type: Course
   name: DSDC
 ---
-<img src="/assets/images/logo.jpg" alt="Logo">
+logo.jpg
 
 # Data Science Discovery Course
 
