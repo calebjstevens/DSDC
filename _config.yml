@@ -20,6 +20,7 @@ author: Nikaash Maheshwari & Caleb Stevens
 baseurl: '/DSDC' # the subpath of your site, e.g. /blog
 url: 'https://DSDC.school' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+logo: "/assets/images/logo.jpg"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
