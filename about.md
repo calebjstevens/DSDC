@@ -19,16 +19,24 @@ After four years of college and looking back to where we started, we realized th
 
 # Books for Nerds
 [Inferential Thinking](https://inferentialthinking.com/chapters/intro.html). This is the open source data science textbook used in Berkeley classes.
+
 [Learn Python the Hard Way](https://www.booksfree.org/learn-python-3-the-hard-way-pdf/). This is a great python resource for those who learn by doing, doing, doing.
+
 [Automate the Boring Stuff](https://openlibrary.org/works/OL17192141W/Automate_the_Boring_Stuff_with_Python). This is a great practical book to practice python while automating some common tasks.
+
 
 # Documentation!!
 
 [Numpy](https://numpy.org/doc/)
+
 [Pandas](https://pandas.pydata.org/docs/)
+
 [MatPlotLib](https://matplotlib.org/stable/index.html)
+
 [Seaborn](https://seaborn.pydata.org)
+
 [SciKitLearn](https://scikit-learn.org/stable/)
+
 
 
 ## Assignments
