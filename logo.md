@@ -1,4 +1,4 @@
 ---
 layout: default
-logo: logo.jpg
+logo: /assets/images/logo.jpg
 ---
