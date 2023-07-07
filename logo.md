@@ -1,5 +1,5 @@
 ---
 layout: default
-logo: "/assets/images/logo.jpg"
+title: "pee"
 nav_order: 1
 ---
