@@ -12,8 +12,8 @@ seo:
 
 ## Meet the Instructors
 <p align = "middle" >
-  <img src="//assets/images/caleb" width="300" />
-  <img src="//assets/images/nikaash" width="300" /> 
+  <img src="//assets/images/caleb.jpg" width="300" />
+  <img src="//assets/images/nikaash.jpg" width="300" /> 
 </p>
 
 ## Data Science Discovery Course
