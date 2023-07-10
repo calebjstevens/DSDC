@@ -12,6 +12,28 @@ seo:
 
 # Data Science Discovery Course
 
+## Meet the Instructors
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin-right: 50px;">
+    <img src="assets/images/caleb.jpg" width = "300"/>
+    <p>
+      <strong>Caleb Stevens</strong><br>
+      Email: caleb.stevens@duke.edu
+    </p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="assets/images/nikaash.jpg" width = "300"/>
+    <p>
+      <strong>Nikaash Maheshwari</strong><br>
+      Email: nikaash.maheshwari@berkeley.edu
+    </p>
+  </div>
+</div> 
+
+
+## Getting Started
+
 The Data Science Discovery Course is a month long dive into core data science concepts aimed at high schoolers or recent grads. This class is open to all no matter your familiarity with data science or programming. We urge you to step out of your comfort zones and learn something new!
 
 This website is organized as follows:
@@ -20,9 +42,8 @@ This website is organized as follows:
 - a [staff](staff.md) page,
 - and an about [about](about.md) page.
 
-## Meet the Instructors
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %} {% for staffer in instructors %} {{ staffer }} {% endfor %}
+
 
 
 
