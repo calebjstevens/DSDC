@@ -13,6 +13,10 @@ Data is everywhere. In every career path, academic discipline, and even everyday
 
 After four years of college and looking back to where we started, we realized that data science is a discipline that is ubiquitous. Better yet, we firmly believe that powerful basic principles are not inaccessible to high school students. We wanted to make this course to teach real, tangible practices that are not only used in the classroom of top universities, but are found in most if not all successful businesses today. We are truly excited to share with you a curriculum that we have developed combining our education and industry experience such that **anyone, regardless of programming or technical background can get something out of and enjoy the beauty of data science.** This course will start with programming fundamentals in python, cover best practices in handling and visualizing large datasets, explore the power of supervised machine learning, and conclude with a guided project where the student takes on a real world dataset and draws meaningful conclusions. We’re excited to share what we’ve learned and arm all of you with a brand new arsenal of skills we wish we knew in high school!
 
+## Course Logistics
+
+The course will meet three times a week on MWF, with Friday's section being devoted to a lab to apply the material in a practical manner. The course will cost $200 a week. If this is a financial burden please don't hesitate to reach out. We don't want money to be a barrier for anyone.
+
 ## Resources
 
 [Inferential Thinking](https://inferentialthinking.com/chapters/intro.html). An excellent open source data science textbook used in Berkeley classes.
@@ -22,7 +26,7 @@ After four years of college and looking back to where we started, we realized th
 [Automate the Boring Stuff](https://openlibrary.org/works/OL17192141W/Automate_the_Boring_Stuff_with_Python). This is a great practical book to practice python while automating some common tasks.
 
 
-### Documentation!!
+## Documentation!!
 
 [Numpy](https://numpy.org/doc/)
 
