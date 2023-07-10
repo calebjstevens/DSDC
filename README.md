@@ -12,6 +12,8 @@ seo:
 
 # Data Science Discovery Course
 
+[Let us know you're interested!](http://reddit.com/){: .btn .btn-purple }
+
 ## Meet the Instructors
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 50px;">
