@@ -20,7 +20,7 @@ seo:
     <img src="assets/images/nikaaash-modified.png" width = "300"/>
     <p>
       <strong>Nikaash Maheshwari</strong><br>
-      Email: nikaash.maheshwari@berkeley.edu
+      <a href="https://nikaash.maheshwari@berkeley.edu/">nikaash.maheshwari@berkeley.edu!</a>
     </p>
   </div>
   
