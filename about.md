@@ -45,4 +45,4 @@ After four years of college and looking back to where we started, we realized th
 
 ## Assignments
 
-This class has short weekly labs (30-60 minutes) designed to test key concepts and stimulate learning. These assignments will be autograded, so code should be clean and effective. We recognize that this is the first foray that many of you will have into programming (much less data science), so rest assured we will provide plenty of help in session as well as virtual office hours for specific questions. The point of these labs is to learn not to be stressed! So please ask for help if you need it!!
+This class has short weekly labs (60-90 minutes) designed to test key concepts and stimulate learning. These assignments will be autograded, so code should be clean and effective. We recognize that this is the first foray that many of you will have into programming (much less data science), so rest assured we will provide plenty of help in session as well as virtual office hours for specific questions. The point of these labs is to learn not to be stressed! So please ask for help if you need it!!
