@@ -20,7 +20,7 @@ seo:
     <img src="assets/images/nikaaash-modified.png" width = "300"/>
     <p>
       <strong>Nikaash Maheshwari</strong><br>
-      <a href="https://nikaash.maheshwari@berkeley.edu/">nikaash.maheshwari@berkeley.edu!</a>
+      <a href="https://nikaash.maheshwari@berkeley.edu/">Email: nikaash.maheshwari@berkeley.edu</a>
     </p>
   </div>
   
@@ -28,7 +28,7 @@ seo:
     <img src="assets/images/caaleb-modified.png" width = "300"/>
     <p>
       <strong>Caleb Stevens</strong><br>
-      Email: caleb.stevens@duke.edu
+      <a href="https://caleb.stevens@berkeley.edu/">Email: caleb.stevens@duke.edu</a>
     </p>
   </div>
 </div> 
