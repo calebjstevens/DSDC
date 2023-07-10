@@ -7,7 +7,7 @@ Aug 14
 
 Aug 16
 : [Project Work Time + Q&A](#)
-  : [2.4](#), [2.5](#)
+  
 
 Aug 18
 : **Lab**{: .label .label-red } [Project Presentations](#)
