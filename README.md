@@ -12,7 +12,7 @@ seo:
 
 # Data Science Discovery Course
 
-[Let us know you're interested!](http://reddit.com/){: .btn .btn-purple }
+[Let us know you're interested!](https://docs.google.com/forms/d/e/1FAIpQLSd19YpgIfzDTT-Ncm3IHbNcUl40HfMRQXTs_ffzgJlY-mSJSg/viewform?usp=sf_link){: .btn .btn-purple }
 
 ## Meet the Instructors
 <div style="display: flex; justify-content: center;">
