@@ -25,7 +25,7 @@ seo:
   </div>
   
   <div style="text-align: center;">
-    <img src="assets/images/caleb.jpg" width = "300"/>
+    <img src="assets/images/caaleb.jpg" width = "300"/>
     <p>
       <strong>Caleb Stevens</strong><br>
       Email: caleb.stevens@duke.edu
