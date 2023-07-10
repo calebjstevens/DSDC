@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Course policies and information.
+photo: about_background.png
 ---
 ## Why Data Science
 
